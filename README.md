@@ -10,6 +10,15 @@
 
 ---
 
+## 👨‍💻 Author
+
+**Arda Baran**
+
+Computer Engineer
+
+
+---
+
 ## 📌 Overview
 
 **Turkey Administrative Geography Scraper** is a Python-based geographic
@@ -213,7 +222,7 @@ Retrieve Neighborhoods
 Retrieve Streets / Roads
   |
   v
-Retrieve Address Points
+Retrieve Building Points
   |
   v
 Parse JSON / Geometry
@@ -295,9 +304,11 @@ volume of geographic information.
 
 | Geographic Entity | Approximate Records |
 |-------------------|--------------------:|
+| Province | 1 |
+| District | 19 |
 | Neighborhoods | 900+ |
-| Road-related records | 52,000+ |
-| Address-related points | 1,100,000+ |
+| Road-related records | 42,000+ |
+| Building-related points | 1,112,000+ |
 
 > **Note:** Address-point records do not necessarily represent
 > unique physical buildings. Duplicate identifiers and administrative
@@ -531,14 +542,7 @@ or official validity of collected geographic information.
 
 ---
 
-## 👨‍💻 Author
 
-**Arda Baran**
-
-Computer Engineer
-
-
----
 
 ⭐ If you find this project useful, consider starring the repository.
 
